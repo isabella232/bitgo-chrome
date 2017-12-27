@@ -1,8 +1,11 @@
 # bitgo-chrome
 Code for the BitGo Chrome app
 
-This is the exact code used to package and build the [BitGo Chrome App](https://chrome.google.com/webstore/detail/bitgo/jlgeogaipkoajobchncghcojanffjfhl). We
-will push new updates here every time we release a new version of the app.
+# Deprecation Notice!
+
+The BitGo Chrome App is no longer supported; run this code at your own risk.
+
+This is the code that was formerly used to package and build the BitGo Chrome App.
 
 You can also directly download and install your own version of the Chrome app using the following instructions.
 
